@@ -1,0 +1,22 @@
+{
+  "name": "gitit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangsongiam/git-it.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Song Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangsongiam/git-it/issues"
+  },
+  "homepage": "https://github.com/wangsongiam/git-it#readme"
+}
